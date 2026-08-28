@@ -11,4 +11,4 @@ This project demonstrates my first Git and GitHub workflow.
 - How to stage and commit changes
 - How to push a project to GitHub
 ## Author
-Natassha Pauline Cua
+Jhanos Abad
